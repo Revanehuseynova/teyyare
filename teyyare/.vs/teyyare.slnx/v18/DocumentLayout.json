@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Visual Comminity Projects\\teyyare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F632178E-43C1-E480-B580-CD5BC45D4F78}|teyyare\\teyyare.csproj|c:\\users\\user\\documents\\visual comminity projects\\teyyare\\teyyare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F632178E-43C1-E480-B580-CD5BC45D4F78}|teyyare\\teyyare.csproj|solutionrelative:teyyare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F632178E-43C1-E480-B580-CD5BC45D4F78}|teyyare\\teyyare.csproj|c:\\users\\user\\documents\\visual comminity projects\\teyyare\\teyyare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F632178E-43C1-E480-B580-CD5BC45D4F78}|teyyare\\teyyare.csproj|solutionrelative:teyyare\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F632178E-43C1-E480-B580-CD5BC45D4F78}|teyyare\\teyyare.csproj|c:\\users\\user\\documents\\visual comminity projects\\teyyare\\teyyare\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F632178E-43C1-E480-B580-CD5BC45D4F78}|teyyare\\teyyare.csproj|solutionrelative:teyyare\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Comminity Projects\\teyyare\\teyyare\\Form1.cs",
+              "RelativeDocumentMoniker": "teyyare\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Visual Comminity Projects\\teyyare\\teyyare\\Form1.cs",
+              "RelativeToolTip": "teyyare\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T21:08:50.814Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Comminity Projects\\teyyare\\teyyare\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "teyyare\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\User\\Documents\\Visual Comminity Projects\\teyyare\\teyyare\\Properties\\Resources.resx",
+              "RelativeToolTip": "teyyare\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-11-02T21:24:14.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Visual Comminity Projects\\teyyare\\teyyare\\Form1.cs",
+              "RelativeDocumentMoniker": "teyyare\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Visual Comminity Projects\\teyyare\\teyyare\\Form1.cs [Design]",
+              "RelativeToolTip": "teyyare\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T20:23:59.616Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
